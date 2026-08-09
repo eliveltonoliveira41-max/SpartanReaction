@@ -1,0 +1,1 @@
+mensagem = "Enfim, consegui combater todos esses soldados... Agora posso voltar para minha casa... ou...."

@@ -1,0 +1,1 @@
+mensagem = "Um espartado foi deixado sem armas, somente contando com a oportunidade..."
