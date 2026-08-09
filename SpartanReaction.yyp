@@ -24,7 +24,7 @@
   },
   "name":"SpartanReaction",
   "resources":[
-    {"id":{"name":"fnt_1","path":"fonts/fnt_1/fnt_1.yy",},},
+    {"id":{"name":"fnt_msg","path":"fonts/fnt_msg/fnt_msg.yy",},},
     {"id":{"name":"obj_barril","path":"objects/obj_barril/obj_barril.yy",},},
     {"id":{"name":"obj_box","path":"objects/obj_box/obj_box.yy",},},
     {"id":{"name":"obj_boxexplod","path":"objects/obj_boxexplod/obj_boxexplod.yy",},},

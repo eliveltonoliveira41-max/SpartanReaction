@@ -1,1 +1,0 @@
-mensagem = "Uma espada pode vencer um homem. Uma estrategia pode vencer um exercito..."

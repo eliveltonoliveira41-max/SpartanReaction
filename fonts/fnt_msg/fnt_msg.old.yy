@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_1",
+  "%Name":"fnt_msg",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":14,
@@ -9,7 +9,7 @@
   "canGenerateBitmap":true,
   "charset":0,
   "first":0,
-  "fontName":"Arial Greek",
+  "fontName":"Arial",
   "glyphOperations":0,
   "glyphs":{
     "32":{"character":32,"h":18,"offset":0,"shift":4,"w":4,"x":2,"y":2,},
@@ -189,7 +189,7 @@
   "last":0,
   "lineHeight":18,
   "maintainGms1Font":false,
-  "name":"fnt_1",
+  "name":"fnt_msg",
   "parent":{
     "name":"SpartanReaction",
     "path":"SpartanReaction.yyp",

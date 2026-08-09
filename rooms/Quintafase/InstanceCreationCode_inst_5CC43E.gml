@@ -1,1 +1,0 @@
-mensagem = "Tenho que explodir esse rinoceronte para passar..."

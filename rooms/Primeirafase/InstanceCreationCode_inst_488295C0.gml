@@ -1,0 +1,1 @@
+mensagem = "Use o ambiente a seu favor...Provoque uma cadeia de acontecimentos"

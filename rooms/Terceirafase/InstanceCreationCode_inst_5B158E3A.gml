@@ -1,1 +1,0 @@
-mensagem = "Uma coisa sempre leva a outra..."

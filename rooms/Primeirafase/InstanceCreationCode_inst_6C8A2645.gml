@@ -1,0 +1,1 @@
+mensagem = "Use A e D para se mover, ESPACE para pular"

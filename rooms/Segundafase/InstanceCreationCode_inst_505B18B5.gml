@@ -1,1 +1,0 @@
-mensagem = "Eles tiraram suas armas. Deram a ele um campo de batalha..."

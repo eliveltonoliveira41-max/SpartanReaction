@@ -6,7 +6,7 @@
     {"name":"Sprites","order":23,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"fnt_1","order":54,"path":"fonts/fnt_1/fnt_1.yy",},
+    {"name":"fnt_msg","order":54,"path":"fonts/fnt_msg/fnt_msg.yy",},
     {"name":"obj_box","order":15,"path":"objects/obj_box/obj_box.yy",},
     {"name":"obj_boxexplod","order":16,"path":"objects/obj_boxexplod/obj_boxexplod.yy",},
     {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
