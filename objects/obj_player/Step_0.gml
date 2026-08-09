@@ -27,7 +27,7 @@ if (velh != 0)
     {
         if (!passo_tocado)
         {
-            audio_play_sound(snd_passo, 1, false);
+           
             passo_tocado = true;
         }
     }

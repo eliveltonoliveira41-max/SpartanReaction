@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":2.727279,
+  "duration":16.0,
   "exportDir":"",
   "name":"snd_passo",
   "parent":{
@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snd_passo.wav",
-  "volume":0.0,
+  "volume":1.0,
 }
