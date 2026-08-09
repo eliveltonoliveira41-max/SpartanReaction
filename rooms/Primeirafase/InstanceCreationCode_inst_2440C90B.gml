@@ -1,0 +1,1 @@
+mensagem = "Um espartano sem armas, somente com uma oportunidade..."

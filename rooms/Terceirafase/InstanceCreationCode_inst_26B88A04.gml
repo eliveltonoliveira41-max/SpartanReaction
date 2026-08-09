@@ -1,0 +1,1 @@
+mensagem = "Empurre uma caixa. Mude o destino..."

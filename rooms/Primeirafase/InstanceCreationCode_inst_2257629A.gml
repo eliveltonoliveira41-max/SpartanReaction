@@ -1,0 +1,1 @@
+mensagem = "Para outros, pedras, caixas e barris. Para ele, armas..."

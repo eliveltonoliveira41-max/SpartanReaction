@@ -1,0 +1,1 @@
+mensagem = "Empurre objetos para que possa derrotar os inimigos... "

@@ -1,0 +1,1 @@
+mensagem = "Sem espada. Sem lanca. Sem medo..."
