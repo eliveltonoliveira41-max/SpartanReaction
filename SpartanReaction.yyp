@@ -101,8 +101,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Quintafase","path":"rooms/Quintafase/Quintafase.yy",},},
-    {"roomId":{"name":"Quartafase","path":"rooms/Quartafase/Quartafase.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"fase1","path":"rooms/fase1/fase1.yy",},},
     {"roomId":{"name":"Primeirafase","path":"rooms/Primeirafase/Primeirafase.yy",},},
@@ -111,6 +109,8 @@
     {"roomId":{"name":"fase3","path":"rooms/fase3/fase3.yy",},},
     {"roomId":{"name":"Terceirafase","path":"rooms/Terceirafase/Terceirafase.yy",},},
     {"roomId":{"name":"fase4","path":"rooms/fase4/fase4.yy",},},
+    {"roomId":{"name":"Quartafase","path":"rooms/Quartafase/Quartafase.yy",},},
+    {"roomId":{"name":"Quintafase","path":"rooms/Quintafase/Quintafase.yy",},},
     {"roomId":{"name":"Continua","path":"rooms/Continua/Continua.yy",},},
   ],
   "templateType":"game",
