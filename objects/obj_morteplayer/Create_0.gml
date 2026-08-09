@@ -1,0 +1,1 @@
+audio_id = audio_play_sound(snd_morte, 1, false);
