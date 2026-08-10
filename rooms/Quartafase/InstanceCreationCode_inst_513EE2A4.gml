@@ -1,1 +1,1 @@
-mensagem = "Falta somente mais uma leva de soldados... já conseguirei voltar pra casa"
+mensagem = "Falta somente mais uma leva de soldados... E conseguirei voltar pra casa"

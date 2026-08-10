@@ -1,3 +1,7 @@
+    draw_set_font(fnt_msg);
+	draw_set_color(c_white);
+
+
 if (mostrando)
 {
     var gui_w = display_get_gui_width();
@@ -23,8 +27,7 @@ if (mostrando)
 
 
     // Texto
-    draw_set_font(fnt_msg);
-draw_set_color(c_white);
+
     draw_set_halign(fa_left);
     draw_set_valign(fa_top);
 

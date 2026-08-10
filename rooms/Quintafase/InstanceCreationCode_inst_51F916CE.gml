@@ -1,0 +1,1 @@
+mensagem = "Preciso explodir esse rinoceronte para passar!"
