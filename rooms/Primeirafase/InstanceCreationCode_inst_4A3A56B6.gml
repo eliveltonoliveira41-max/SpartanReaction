@@ -1,1 +1,1 @@
-mensagem = "Um espartado foi deixado sem armas, somente contando com a oportunidade..."
+mensagem = "Um espartano deixado sem armas, somente contando com a oportunidade..."
